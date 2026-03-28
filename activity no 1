@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 17 13:42:24 2026
 
-@author: User
+@author nayan jadhav
 """
 
 def calculate_total_bill(cart):
