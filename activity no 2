@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 24 13:04:23 2026
 
-@author: User
+@author: nayan jadhav
 """
 
 def calculate_total_bill_with_loop(price_list):
